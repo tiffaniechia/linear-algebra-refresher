@@ -1,0 +1,5 @@
+bin/
+lib/
+.ipynb_checkpoints/
+.Python/
+include/
